@@ -17,7 +17,7 @@
 - 🔭 Passionate about **Astronomy** and **Music**
 - 📄 Check out my experiences: [My Resume](https://github.com/user-attachments/files/16603291/Achintya_Agarwal.pdf)
 
-## 📊 GitHub Stats
+## 📊
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achintya019&layout=compact&theme=chartreuse-dark" alt="Top Languages Card"/>
